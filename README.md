@@ -1,5 +1,11 @@
 # discrete_event_simulation
 
+
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OsarodionOdion/DES_model/HEAD)
+
+
 Information on using this cookiecutter
 
 Development workflows
