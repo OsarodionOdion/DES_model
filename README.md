@@ -9,8 +9,8 @@ Contents of the PR_simulation.ipynb file
 -------------------------------------------
 
 * The first section covers the executive summary and information on the model being built
-* The Stages in building the Purchase Requisition model describes the steps taken to build the model
-* The Purchase Requisition model covers the creation of the final model
+* The *Stages in building the Purchase Requisition model* describes the steps taken to build the model
+* The *Purchase Requisition model* covers the creation of the final model
 * Results and analysis are provided in the other sections
 
 How to use
