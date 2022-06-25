@@ -18,8 +18,8 @@ How to use
 * Set input parameters in the Function to launch section 
 * Run simulation in the Run Simulation environment sub-section
 
-Notebook can be accessed using url below
-----------------------------------------
+Launch binder to access Notebook
+------------------------------------
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OsarodionOdion/DES_model/HEAD)
 
 The materials used in creating this project have been provided by Prof. Mark Isken, SBA, Oakland University.
