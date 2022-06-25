@@ -1,6 +1,9 @@
+math
 numpy
 pandas
 matplotlib
 simpy
-
+seaborn
+scipy
+IPython
 
