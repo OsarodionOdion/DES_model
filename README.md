@@ -15,8 +15,8 @@ Contents of the PR_simulation.ipynb file
 
 How to use
 -----------
-* Set input parameters in the [Function to Launch Simulation](R_simulation.ipynb# "Function to launch") section 
-* Run simulation in the [Run Simulation environment](R_simulation.ipynb# "Run Simulation") sub-section
+* Set input parameters in the [Function to Launch Simulation](R_simulation.ipynb# "Function to Launch") section 
+* Run simulation in the [Run Simulation environment](R_simulation.ipynb# "Run Simulation environment") sub-section
 
 Launch binder to access Notebook
 ------------------------------------
