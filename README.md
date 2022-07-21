@@ -3,7 +3,7 @@
 ## Using Discrete Event Simulation (DES) to help plan purchasing in an organisation 
 **Project Goal** - The objective of this project is to build DES models to simulate the steps in purchasing items in an organisation. The SimPy python library is used in creating this model
 
-All completed work for this project is contained in the `PR_simulation.ipynb` file.
+All completed work for this project is contained in the [Purchase Requisition Simulation](PR_simulation.ipynb).
 
 Contents of the PR_simulation.ipynb file
 -------------------------------------------
