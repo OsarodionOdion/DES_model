@@ -9,7 +9,7 @@ Contents of the PR_simulation.ipynb file
 -------------------------------------------
 
 * The [first section](PR_simulation.ipynb# "Using Discrete Event Simulation to help plan purchasing in an organisation") covers the executive summary and information on the model being built
-* The [Stages in building the Purchase Requisition model](PR_simulation.ipynb# "Using Discrete Event Simulation to help plan purchasing in an organisation"# "Stages in building the Purchase Requisition model") describes the steps taken to build the model
+* The [Stages in building the Purchase Requisition model](PR_simulation.ipynb# "Stages in building the Purchase Requisition model") describes the steps taken to build the model
 * The [Purchase Requisition model](PR_simulation.ipynb# "The Purchase Requisition model") covers the creation of the final model
 * Results and analysis are provided in the [Key summary stats](PR_simulation.ipynb# "Key summary stats")
 
